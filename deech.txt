@@ -1,0 +1,3 @@
+New text document with completely new information
+
+This is exclusive for master branch only!s
