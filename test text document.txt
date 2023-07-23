@@ -2,4 +2,4 @@ hello world!
 
 changes to the file! New line!
 
-Absolutely legit new line (суета не планируется)
+суета
