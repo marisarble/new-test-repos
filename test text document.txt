@@ -1,3 +1,5 @@
 hello world!
 
 changes to the file! New line!
+
+conflicting_branch_text (суету охота навести!)
